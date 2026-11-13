@@ -1,4 +1,3 @@
-# ZEMEN-DETECTOR-LINEAGE-BIOGRAPHY-CONTRIBUTION
 ZEMEN — DETECTOR LINEAGE & BIOGRAPHY CONTRIBUTION
 
 Individual Contribution Portfolio — INSA Submission
@@ -11,7 +10,7 @@ Team	Team Sukuna
 Project	Zemen
 Contribution	Detector Lineage & Biography
 Source Code	lineage.go
-Demonstration	[Watch on YouTube]([YOUR VIDEO LINK])
+Demonstration	Watch on YouTube
 1. Project Overview
 
 Zemen is a security detection integrity and Ethiopian temporal-context platform designed to work with OpenSearch and Wazuh.
@@ -83,7 +82,9 @@ The package works with other Zemen modules: config, health, indices, osclient, r
 
 A 5-minute video showing the project, its key features and how it works:
 
-Video: [YOUR VIDEO LINK]
+Video: https://youtu.be/eM72OH3Z7wU
+
+Watch Zemen Lineage Demonstration
 
 8. Contribution Value
 
